@@ -1,4 +1,4 @@
-## Olá, Sou a Giovanna!!! 👋
+# Olá, Sou a Giovanna!!! 👋
 
   
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS) – Senac.  
@@ -21,7 +21,7 @@
 </div>
 
 ##
-<br>
+
 <!-- BACK-END / API -->
 <strong>⚙️ Back-end / APIs</strong>
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 10px 0 25px;">
@@ -32,7 +32,7 @@
 </div>
 
 ##
-<br>
+
 
 <!-- BANCO DE DADOS -->
 <strong>🗄️ Banco de Dados</strong>
@@ -43,7 +43,7 @@
 </div>
 
 ##
-<br>
+
 
 <!-- IDEs -->
 <strong>🧠 IDEs</strong>
@@ -54,7 +54,7 @@
 </div>
 
 ##
-<br>
+
 
 <!-- FERRAMENTAS / OUTROS -->
 <strong>🛠️ Ferramentas & Outros</strong>
@@ -71,10 +71,10 @@
 
 ---
 
-### 📞 CONTATO
+### 📞 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannabs2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-barbosa-de-souzagbs)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannabs2004@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-barbosa-de-souzagbs)
 
 
 ---
